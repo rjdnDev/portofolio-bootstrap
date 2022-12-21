@@ -1,0 +1,48 @@
+.hero {
+  padding-top: 5rem;
+}
+.rojudin {
+  color: #d38b05;
+}
+
+.sosmed-item {
+  text-decoration: none;
+  color: white;
+  padding: 2px;
+}
+
+img {
+  border: 2px solid #d38b05;
+}
+
+.intoduction,
+h2,
+h3,
+p {
+  color: white;
+}
+.intro-item {
+  text-align: center;
+  font-weight: 200;
+  color: #d38b05;
+  border-bottom: 1px solid #d38b05;
+}
+
+.button {
+  padding: 7px;
+  color: #d38b05;
+  background-color: transparent;
+  border: 1px solid #d38b05;
+  border-radius: 20px;
+  text-decoration: none;
+}
+
+/* hero */
+
+form{
+  width: 400px;
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+  padding-top: 15px;
+}
